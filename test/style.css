@@ -1,0 +1,33 @@
+*{
+    border: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+#banner {
+    color: blueviolet;
+    font-size: 95px;
+    background-color: cyan;
+    padding: 0.5em 0em  ;
+    width: 80%;
+    margin:10px auto ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    text-transform: capitalize;
+}
+#clock{
+    color: rgb(43, 226, 119);
+    font-size: 70px;
+    background-color: #EB6C52;
+    padding: 0.5em 0em  ;
+    width: 80%;
+    height: 60vh;
+    margin: auto ;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+
+}
+span {
+
+    margin:auto;
+}
